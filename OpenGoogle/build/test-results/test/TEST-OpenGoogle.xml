@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="OpenGoogle" tests="1" skipped="0" failures="0" errors="0" timestamp="2020-03-10T09:57:47" hostname="alex" time="9.504">
+  <properties/>
+  <testcase name="OpenGoogle" classname="OpenGoogle" time="9.504"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[Starting ChromeDriver 79.0.3945.36 (3582db32b33893869b8c1339e8f4d9ed1816f143-refs/branch-heads/3945@{#614}) on port 30791
+Only local connections are allowed.
+Please protect ports used by ChromeDriver and related test frameworks to prevent access by malicious code.
+[1583834270.264][WARNING]: This version of ChromeDriver has not been tested with Chrome version 80.
+[1583834272.360][WARNING]: Timed out connecting to Chrome, retrying...
+Mar 10, 2020 11:57:54 AM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+]]></system-err>
+</testsuite>

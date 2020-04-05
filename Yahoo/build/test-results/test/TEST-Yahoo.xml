@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Yahoo" tests="1" skipped="0" failures="0" errors="0" timestamp="2020-04-01T11:28:38" hostname="alex" time="10.561">
+  <properties/>
+  <testcase name="Yahoo" classname="Yahoo" time="10.561"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[Starting ChromeDriver 79.0.3945.36 (3582db32b33893869b8c1339e8f4d9ed1816f143-refs/branch-heads/3945@{#614}) on port 29284
+Only local connections are allowed.
+Please protect ports used by ChromeDriver and related test frameworks to prevent access by malicious code.
+[1585740486.929][WARNING]: This version of ChromeDriver has not been tested with Chrome version 80.
+[1585740489.039][WARNING]: Timed out connecting to Chrome, retrying...
+Apr 01, 2020 2:28:11 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+]]></system-err>
+</testsuite>

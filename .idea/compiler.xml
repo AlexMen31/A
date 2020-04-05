@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel>
+      <module name="eBay.main" target="1.8" />
+      <module name="eBay.test" target="1.8" />
+      <module name="First_Project.main" target="1.8" />
+      <module name="First_Project.test" target="1.8" />
+      <module name="Google_search.main" target="1.8" />
+      <module name="Google_Search.main" target="1.8" />
+      <module name="Google_search.test" target="1.8" />
+      <module name="Google_Search.test" target="1.8" />
+      <module name="GS.main" target="1.8" />
+      <module name="GS.test" target="1.8" />
+      <module name="OpenGoogle.main" target="1.8" />
+      <module name="OpenGoogle.test" target="1.8" />
+      <module name="RamblerTest.main" target="1.8" />
+      <module name="RamblerTest.test" target="1.8" />
+      <module name="Repete.main" target="1.8" />
+      <module name="Repete.test" target="1.8" />
+      <module name="Self.main" target="1.8" />
+      <module name="Self.test" target="1.8" />
+      <module name="wiki-web-tests.main" target="1.8" />
+      <module name="wiki-web-tests.test" target="1.8" />
+      <module name="Wiki.main" target="1.8" />
+      <module name="Wiki.test" target="1.8" />
+      <module name="Yahoo.main" target="1.8" />
+      <module name="Yahoo.test" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
